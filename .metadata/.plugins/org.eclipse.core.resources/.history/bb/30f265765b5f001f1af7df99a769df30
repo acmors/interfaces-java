@@ -1,0 +1,9 @@
+package program;
+
+import entity.UnoQuadrado;
+
+public class program {
+	UnoQuadrado uno = new UnoQuadrado();
+	uno.set
+	
+}

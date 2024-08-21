@@ -1,0 +1,10 @@
+package repository;
+
+public interface Veiculo {
+	public String placa = "";
+	public void ligar();
+	public void desligar();
+	default void buzinar(){
+		System.out.println("pibit pibit");
+	}
+}
